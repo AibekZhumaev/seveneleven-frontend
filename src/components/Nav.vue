@@ -19,8 +19,8 @@
 <!--      </form>-->
 
       <div class="text-end">
-        <router-link to="/login" class="btn btn-outline-light me-2">Login</router-link>
-        <router-link to="/register" class="btn btn-warning">Register</router-link>
+        <router-link to="/signin" class="btn btn-outline-light me-2">Sign-in</router-link>
+        <router-link to="/signup" class="btn btn-warning">Sign up</router-link>
       </div>
 
     </div>
